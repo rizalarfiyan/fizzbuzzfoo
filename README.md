@@ -9,8 +9,8 @@ Write a program that prints the numbers from input (positive integer provided by
 ## Flow Chart
 ```mermaid
 graph TD
-    start(["Start"])
-    stop(["Stop"])
+    start(["Mulai"])
+    stop(["Akhir"])
     intro[/"Output introduction greeting #quot;Fizz Buzz Foo#quot;;"/]
     declare1{{"int getLength;"}}
     declare2{{"bool hasFound;"}}
